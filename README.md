@@ -19,7 +19,7 @@ Amp és una illa remota. Es troba situada on ningú sap on, ja que la resta de l
 - Fent el túnel van obrir la porta a moltes criatures que van portar el terror a l'illa, i també a fora. Entre elles el monstre ILC.
 
 ### Gran guerra
-- Meic contra Peic, casi acaba amb tot
+- Meic contra Peic, casi acaba amb tot: el conflicte, com MEIP està monopolitzant els recursos d el'illa. Allà hi ha la cort i te tot el poder. Peic i Gumpisa es revelen. Australk, després del tancament dle túnel s'uneixen a Meip i acaben la guerra.
 - Peic, al veure la quantitat de profit que n'està traient de tot Meip, destrueix la mà dels cinc dits de la mà d'or. La clau que obre el pas. I l'envia a destruir.
 - Enlloc de ser destruida (això es secret): la mà es va trencar en cinc bocims i es va amagar a cinc racons de l'illa per el soldat encarregat, que va morir durant la guerra
 - La pau va arribar per esgotament i Peic va acceptar Meip com a vencedor
