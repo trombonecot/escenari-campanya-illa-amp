@@ -8,12 +8,26 @@ Amp és una illa remota. Es troba situada on ningú sap on, ja que la resta de l
 ## Història
 
 ### Primera edat
+- Primers asentaments d'explroadors humans
+- Aixencs són els únis que hi viuen
+- Elfs i nands arriben després
 
 ### Segona edat
+- Descobriment de l'illa per part de fora, obertura al món.
+- El rei, mogut per la quantitat de tresos que es troben a gumpisa decideix obrir el pas soterrani, a través del gran dungeon amb la civilització. 
+- Això porta molta vida, problemes i riqueses a l'illa. El pas només es fa servir per transportar totes les riqueses a terra ferma sense vaixells.
+- Fent el túnel van obrir la porta a moltes criatures que van portar el terror a l'illa, i també a fora. Entre elles el monstre ILC.
 
 ### Gran guerra
+- Meic contra Peic, casi acaba amb tot
+- Peic, al veure la quantitat de profit que n'està traient de tot Meip, destrueix la mà dels cinc dits de la mà d'or. La clau que obre el pas. I l'envia a destruir.
+- Enlloc de ser destruida (això es secret): la mà es va trencar en cinc bocims i es va amagar a cinc racons de l'illa per el soldat encarregat, que va morir durant la guerra
+- La pau va arribar per esgotament i Peic va acceptar Meip com a vencedor
 
 ### Aïllament
+- Miseria
+- enfermetats
+- Abandonament dels déus
 
 ## Geografia
 
