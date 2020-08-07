@@ -1,0 +1,1 @@
+# escenari-campanya-illa-amp
