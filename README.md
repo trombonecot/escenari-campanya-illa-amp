@@ -3,9 +3,21 @@
 ![alt text](https://inkarnate-api-as-production.s3.amazonaws.com/m953ehwm65p8pato4fksyhwn93e0 "Illa d'amp")
 
 
-Amp és una illa remota on es desenvolupa l'acció d'aquesta aventura. Es troba situada on ningú sap on, ja que la resta de la civilització fa centenars d'anys que no en té noticies. Els habitants de l'illa, desde la gran guerra i la separació del continents, no han tingut noticies mai de l'exterior i s'han acostumat a fer la seva dins el bast territori d'AMP. Els pocs aventurers que han provat sort a la mar o bé no han tornat mai més o bé han tornat amb la cua entre cames. Són moltes les naus que han patit naufragis al voltant de l'illa intentant marxar-ne. El monstre Ilc, un drac aquàtic que es rumoreja que viu a les profunditats del mar del nord tampoc ho ha posat mai fàcil.
+Amp és una illa remota. Es troba situada on ningú sap on, ja que la resta de la civilitzacions fa centenars d'anys que no en tenen noticies. Els habitants de l'illa, desde la gran guerra i la separació del continents, no han tingut noticies mai de l'exterior i s'han acostumat a fer la seva dins el bast territori d'AMP. Els pocs aventurers que han provat sort a la mar o bé no han tornat mai més o bé han tornat amb la cua entre cames. Són moltes les naus que han patit naufragis al voltant de l'illa intentant marxar-ne. El monstre Ilc, un drac aquàtic que es rumoreja que viu a les profunditats del mar del nord tampoc ho ha posat mai fàcil.
+
+## Història
+
+### Primera edat
+
+### Segona edat
+
+### Gran guerra
+
+### Aïllament
 
 ## Geografia
+
+### Ciutats importants
 
 - Meip: ciutat més important de la illa. Mercaders, nobles i les grans riqueses es concentren aquí. La majoria de la població  és entre humana i elfa.
 
@@ -17,9 +29,11 @@ Amp és una illa remota on es desenvolupa l'acció d'aquesta aventura. Es troba 
 
 - Gumpisa: la ciutat nana. És una ciutat que guarda gran fortunes sorgides de la mineria que practiquen els seus habitants a la gran serralada. La majoria de la població és nana, alguns humans i gnoms.
 
+### Ciutat abandonades importants
+
 - Furlau: la ciutat encantada va ser una gran ciutat en el passat. Després de la gran guerra i la separació dels continents va esdevenir un paradís pels mals espertis i les criatures estranyes.
 
-- Solneu: el bosc encantat. Aquí és d'on sorgeix la majoria de població élfica de la illa. Tot i que originalment tots vivien aquí, a mida que van anar passant generacions molts van abandonar els boscos per fusionarse amb la resta de raça a les grans ciutats. La majoria de la població a Solneu és élfica.
+- Solneu: el bosc encantat. Aquí és d'on sorgeix la majoria de població élfica de la illa. Tot i que originalment tots vivien aquí, a mida que van anar passant generacions molts van abandonar els boscos per fusionarse amb la resta de raça a les grans ciutats. Ara a Solneu només queden ermitanys i persones perdudes que conviuen amb les bésties. Poc en queda de l'antiga civilització élfica que en algun moment havia existit allà.
 
 ### L'Oest d'AMP
 
