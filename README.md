@@ -37,7 +37,10 @@ Classes disponibles: bárbar, bard, clèrig, bruixot (rar), explorador, druida, 
 
 ## Deitats
 
-La majoria dels humans de l'illa d'AMP no practica cap religió, ja que se sent abandonada pels deus després de la gran guerra i com l'illa va perdre tot contacte amb terra ferma. Alguns humans, i membres d'altres races si que creuen i beneren alguns dels deus antics:
+La majoria dels habitants de l'illa d'AMP no practica cap religió, ja que se sent abandonada pels deus després de la gran guerra i com l'illa va perdre tot contacte amb terra ferma. Els deus van abandonar qualsevol vincle amb la illa i la van oblidar per sempre més. Els temples no reben benediccions, les flames màgiques no s'iluminen i els clergues no tenen cap poder a l'illa.
+
+
+Alguns humans, i membres d'altres races si que creuen i beneren alguns dels deus antics, però d'una manera totalment cega i sense resposta:
 
 - Frotinia: Deesa de l'amor. Símbol: un cercle.
 
@@ -61,6 +64,13 @@ La majoria dels humans de l'illa d'AMP no practica cap religió, ja que se sent 
 
 - Zaud: Deu dels deus. Símbol: una corona.
 
-Els 11 deus tenen una representació geogràfica a la illa, ja que hi ha una serralada amb 11 cims, on el del mig és el més alt a la part sud de l'illa. Es diu que la serra és la serra dels 11 deus, i cada cim té un petit temple en beneració al deu que fa ofrena. Són temples poc accessible, en cims on pocs arriben, i només hi viuen quatre monjos que viuen de la contemplació. 
+Els 11 deus tenen una representació geogràfica a la illa, ja que hi ha una serralada amb 11 cims, on el del mig és el més alt a la part sud de l'illa. Es diu que la serra és la serra dels 11 deus, i cada cim té un petit temple en beneració al deu que fa ofrena. Són temples poc accessible, en cims on pocs arriben, i només hi viuen quatre monjos que viuen de la contemplació. Cada temple té la seva flama, abans mantinguda per el vincle diví amb cadascún dels deus. Ara, cap s'encén i quan s'intenta els forts vents les apaguen. El mongos que queden esperen que algun dia torni la paraula divina dels de dalt.
 
 Hi ha altre temples per tota la geografia, els més important són el de Termisi al bosc de Solneu, el de Honiri a la ciutat de Gumpisa, el de Huran a la ciutat de Peic i el de Zaud a la ciutat d'Australk. 
+
+## Races noves
+
+- Aixenc (follet)
+
+## Clases noves
+- Clergue abandonat
