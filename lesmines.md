@@ -213,29 +213,110 @@ Al dins la sala hi ha tota mena d'objectes robats als miners o als pobles nómad
 
 ### Sala 5
 
-Just a l'altra costat de la porta de fusta d'aquesta habitació els persontges poden sentir els crits de dolor d'alguna persona a dintre. Es tracta dels calaboços, una sala de tortura amb deu celes per a presoners. On hi ha dos guardies i cinc nans empresonats. Al entrar un dels semiorcs està donant una pallissa, per pura diversió, a un nan que sembla que ha perdut els ulls i prova d'aixecar-se sense trobar cap on anar.
+Just a l'altra costat de la porta de fusta d'aquesta habitació els persontges poden sentir els crits de dolor d'alguna persona a dintre. Es tracta dels calaboços, una sala de tortura amb deu celes per a presoners. On hi ha dos guardies i cinc nans empresonats. Al entrar un dels semiorcs està donant una pallissa, per pura diversió, a un nan que sembla que ha perdut els ulls i prova d'aixecar-se sense trobar cap on anar. Un dels nans que hi ha a les celes és el germà d'en Nurak.
 
 Si alliberen els nans els explicaran que mentre treballaven van sentir un so molt fort i cinc semiorcs salvatges els van atacar des de la foscór. Estan en estat molt débil i és impossible que puguin pujar per la rampa sols.
-
-### Sala 6
-
-Aquesta és la segona sala de calabossos. A diferéncia de l'anterior aquí no hi ha cap guardia sinó una gran paret de barrots que divideix una caverna molt amplia en dues parts. A l'altra costat dels barrots hi ha una vintenta de dones humanes, algunes embaraçades, que mostren un aspecte deplorable.
 
 \page
 
 
-Al veure els personatges correran cap als barrots a demanar que les deixin sortir. Els explicaran que són nómades de les estepes gelades que van ser capturades cadascuna en un moment diferent. Entre lamentacions es definiran com les mares de l'exèrcit del Déu de la guerra. Els expliquen són obligades a procrear els dimonis verds, fills dels orcs per tal d'engrandir el poble de Darsk. Quan són prou velles i ja no serveixen les sacrifiquen en un ritual al temple.
-
-### Sala 7
+### Sala 6
 
 El corredor ben il·luminat porta, amb uns vint metres de recorregut, a una sala col·losal. El sostre, ple d'estalactites, s'eleva com cap altra sala que han pogut entrar fins ara els aventurers. Al centre hi ha brases i restes apagats d'algunes fogueres. Es poden veure restes de menjar al voltant de taules i tamborets fetes amb fusta de les antigues estructures mineres.
 
 A difernets alçades, per la paret, hi ha una vintena d'obertures a noves coves. Si els aventurers les investiguen veuran que es tracta d'els llocs on viuen: pells, espelmes i alguna cosa de menjar en un cau a la roca. Tot estan buits.
 
-### Sala 8: El temple
+### Sala 7: El temple
+
+El camí aquí és fa més ample i a les parets, a part de les habituals torxes si poden veure banderoles de color vermell penjades per la paret. Durant uns minuts el camí descent a poc a poc dins la muntanya fins arribar on sembla que un punt de llum de l'exterior es cola entre les roques i crea una nova atmosfera, més freda. L'habitació està dividida per un precipici que cau a una distància indeterminada i un pont de fusta que la creua. A l'altra costat hi ha una porta de pedra amb tres ralles vermelles dibuixades al damunt.
+
+Al davant, vigilant-la hi ha un guardia Darsk mig adormit. Si té temps d'escapar o veu que està superat en número entrarà a la sala i avisarà a tothom dels instrusos.
+
+Al darrera de la porta hi ha el temple de cerimonies de la tribu. El temple és uan gran sala escarbada a la roca, hi ha una gran estatua al final d'un personatge amb una destral a les mans, segurament una representació del Déu de la guerra (tirada dificultat 10 de *religió*). Al seu davant hi ha un altà de pedra on els presoners són sacrificats.
+
+En el moment que entring els personatges s'està duent a terme un ritual:
+<div class='descriptive'>
+Al fons de la sala, veieu un semiorc, més gran que la majoria, que, d'esquena alça alguna cosa sagnant. Al seu davant té el cadáver d'un nan que encara agonitza i al seu darrera una quinzena de pells verdes que, agenollats, el contemplen.
+  
+  -Fills meus- diu en llengua orca - Fills del Déu de la guerra! Molt aviat molts més sereu! I el vostra pare podrà estar orgullós de vosaltres! Aquests ulls que tinc a les mans, siguin, la nostra ofrena cap a tu.
+  
+  El semiorc llavors s'acosta fins a l'estatua i llança violentament els ulls contra la pedra freda de la destral representada. Després, s'agenolla i, com la resta, tanca els ulls i abaixa el cap en senyal de reveréncia cap al seu Déu.
+  
+  Una llum verdosa apareix de l'estátua i es va expandint pel sostre ple d'estalactites.
+</div>
+
+Aquesta llum serà una benedicció per a la tribu que està a punt de tornar a sortir per atacar als miners d'alguna altra galeria. Els personatges, per poder presenciar tot això sense ser escoltats hauran de superar una tirada en grup de *sigil* amb dificultat 10. Una vegada acabi el ritual els serà més dificil amagar-se ja que aquesta quinzena de semiorcs tornaran a les seves coves una estona per després sortir cap a la superfície. En Darsk, el líder, es retirarà a la seva habitació i no abandonarà el poble.
+
+### Sala 8: L'habitació de Darsk
+
+El camí cap a l'habitació és idéntic a la resta de galeries del poblat, només que a les parets hi haurà pintades al llarg de tot el recorregut tres línies vermelles fetes de sang. La galeria acabarà amb una porta de fusta tancada amb clau. La clau la porta en Darsk al damunt, si es vol forçar el pany cal tenir les eines adeqüades i superar una tirada de 15. Si es falla o s'intenta obrir per les bones s'activarà una trampa.
+
+> ##### Trampa de forat amb estaques
+> Si algú prova d'obrir la porta sense vigilar el terra s'obrirà i caurà en un forat a un parell de metres amb estaques al final. A baix hi ha el cadàver d'algún semiorc, que ha pensat que potser podria desafiar el poder del líder, o robar alguna cosa de la seva habitació.
+> 
+> Si s'activa el que caigui rebrà 4d6 de dany, anulats per una tirada de salvació de 20 de destresa. Per veure aquesta trampa caldrà una tirada amb dificultat 20 i per desarmarla una tirada amb dificultat 15.
+
+A dins tot el terra està forrat amb pells de diferents animals, hi ha una petita llar de foc i un escriptori. Entre les pells, i difícil de veure hi ha un llop gegant dormint. Si entren fent massa soroll l'animal se'ls tirarà a sobre sense pietat.
+
+___
+> ## Llop gegant
+> ___
+> - **Clase armadura** 13
+> - **Punts de dany** 11
+> - **Velocitat** 40ft.
+>___
+>|FOR|DES|CON|INT|SAB|CAR|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|15 (+2)|12 (+1)|3 (-4)|12 (+1)|6 (-2)|
+>___
+> - **Sentits** Percepció passiva 13
+> ___
+> ***Habilitats*** Percepció +3, Sigil +4
+>
+> ### Actions
+> ***Mossegada*** *Cos a cos:* +4 impactar, alcanç 5ft., un obejctiu. *Impacte* 7 (2d4 + 2) 
+
+Al damunt de l'escriptori hi podran trobar les calaveres a mig descomposar de nans, 200 monedes d'or, una estatua de mosca de ebano (consultar pàgina 183 del *manual de dunegon master*), material divers d'escalada en roca i una série de pergamins amb mapes de la zona, amb indicacions dels diferents atacs que han realitzat i que pensen realitzar (un prova com aquella pot convencer a la guardia per ajudar als aventurers a acabar amb en Darks i la seva gent).
+
+\page
+
+___
+> ## Darsk
+>*clergue semiorc, nivell 8*
+> ___
+> - **Clase armadura** 16
+> - **Punts de dany** 59
+> - **Velocitat** 30ft.
+>___
+>|FOR|DES|CON|INT|SAB|CAR|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|10 (0)|15 (+2)|10 (0)|13 (+1)|16 (+3)|
+>___
+> - **Habilitats** Coneixement arcà ??, 
+> - **Sentits** Percepció 11, Investigació 10, Insight 14
+> - **Llengues** Comú, orc, nan
+>
+> ### Encanteris
+> ***Modificador*** +1, +4 atac encanteri, salvació
+>
+> ***Cantrips*** Orientació, Esmenar, Resistencia, Flama sagrada
+>
+> ***1r nivell (4)*** Foc de fades, dormir
+>
+> ***2n nivell (3)*** Foscór, invisibilitat
+>
+> ***3r nivell (3)***
+>
+> ***4r nivell (2)*** Invisibilitat millorada
+> ### Actions
+> ***Atac amb gran destral*** *Cos a cos:* +5, alcanç 5ft., un atacs. *Impactar*  1d12+2 
 
 
+## La tornada a Curthan
 
+Si els personatges aconsegueixen escapar de les mines amb els presoners els rebran amb honors i la mateixa guardia de la ciutat es farà càrreg d'entrar i acabar de netejar les coves. En Nurak, estarà tant agraït de la tornada del seu germà que els ajudarà amb tot el que calgui, tindran menjar i allotjament gratuit a Curthan per cada vegada que vinguin i a més, farà moure la seva xarxa de contactes perqué la majoria de botigues de nans els facin un 20% de descompte amb els seus articles.
+
+...
 
 
 
